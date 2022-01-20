@@ -1,2 +1,2 @@
 Hello I am in Master
-updating in Master
+updating in master
